@@ -1,6 +1,10 @@
 # CARGADOR-TAMAÑO-ADAPTADO
 
-Open Source.
+**Objetivos**:
+
+1.- Open Source.
+2.- Que el tamaño sea similar al cargador TP4056 para usar en proyectos ya existentes
+3.- Que tenga monitoreo de variables de batería: voltaje, %carga, etc.
 
 # **Contenido del repositorio**:
 
