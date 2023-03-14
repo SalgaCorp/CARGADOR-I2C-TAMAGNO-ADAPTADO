@@ -1,4 +1,24 @@
-# CARGADOR-TAMA-O-ADAPTADO
+# CARGADOR-TAMAÑO-ADAPTADO
+
+
+*Contenido del repositorio*:
+
+PCB
+Datasheet
+Fotos
+
+*Documentation*:
+
+Usa los siguientes componentes importantes:
+Datasheet (BQ24075 Charger)
+[bq24075.pdf](https://github.com/SalgaCorp/CARGADOR-TAMAGNO-ADAPTADO/files/10971589/bq24075.pdf)
+
+Datasheet (BQ27441-G1 Fuel Gauge)
+[bq27441-g1.pdf](https://github.com/SalgaCorp/CARGADOR-TAMAGNO-ADAPTADO/files/10971591/bq27441-g1.pdf)
+
+
+Para monitoreo de variables de batería usar la siguiente libreria y ejemplos de cortesia de SpurkFun:  https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library
+
 
 Comparacion de PCB con tamaño del cargador TP4056
 
@@ -6,4 +26,10 @@ Comparacion de PCB con tamaño del cargador TP4056
 
 ![PCB coincide](https://user-images.githubusercontent.com/40340747/225079239-76fea418-7cf2-442e-9a2a-729af7d3c89c.jpeg)
 
+
+Product Versions: DEMO
+
 Luego subiré la pcb armada completamente.
+
+License Information
+This product is open source!
