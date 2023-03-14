@@ -2,13 +2,13 @@
 
 Open Source.
 
-**Contenido del repositorio**:
+# **Contenido del repositorio**:
 
 PCB
 Datasheet
 Fotos
 
-*Documentation*:
+# *Documentation*:
 
 Usa los siguientes componentes importantes:
 
@@ -33,9 +33,9 @@ Comparacion de PCB con tamaño del cargador TP4056
 ![PCB coincide](https://user-images.githubusercontent.com/40340747/225079239-76fea418-7cf2-442e-9a2a-729af7d3c89c.jpeg)
 
 
-Product Versions: DEMO
+# Product Versions: DEMO
 
 Luego subiré la pcb armada completamente.
 
-License Information
+# License Information
 This product is open source!
