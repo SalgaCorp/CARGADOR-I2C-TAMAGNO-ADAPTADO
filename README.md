@@ -1,7 +1,8 @@
 # CARGADOR-TAMAÑO-ADAPTADO
 
+Open Source.
 
-*Contenido del repositorio*:
+**Contenido del repositorio**:
 
 PCB
 Datasheet
