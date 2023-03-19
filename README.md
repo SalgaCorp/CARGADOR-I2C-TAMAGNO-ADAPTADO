@@ -48,5 +48,5 @@ Luego subiré la pcb armada completamente.
 This product is open source!
 
 # Contact Us
-Call or WhatsApp 6013-2859151. 
-  wa.me/56966814899
+Call or WhatsApp 
+https://api.whatsapp.com/send?phone=56966814899
