@@ -50,3 +50,7 @@ This product is open source!
 # Contact Us
 Call or WhatsApp 
 https://api.whatsapp.com/send?phone=56966814899
+
+https://api.whatsapp.com/send?phone=56966814899&text=hola,%20qué%20tal?
+
+
